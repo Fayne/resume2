@@ -59,7 +59,7 @@ content:
       - layout: top-middle
         title: DFS official website
         link: dfs.com
-        link_text: DFS official website
+#        link_text: DFS official website
         additional_links:
           - icon: fab fa-brands fa-html5
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -69,7 +69,9 @@ content:
           Tech stack: <mark>SAAS</mark> <mark>NuxtJS</mark> <mark>Opensearch</mark> <mark>Docker</mark> <mark>Kubernetes</mark>
         description: | # this will include new lines to allow paragraphs
           Project background: DFS group cooperated with Mobile Now to revamp its global official websites.
+          |
           Project goal: Build an official website platform to use a set of templates suitable for the official websites of each DFS country (region) to display different products and event contents.
+          |
           Project Overview: This is a long-term project, from 0 to 1, from 1 to 20, building 20 official websites around the world. This project uses front-end and back-end separation technology, and also meets the high concurrency requirements of the official website.
 
   - title: Experience # Title for the section
