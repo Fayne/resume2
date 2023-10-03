@@ -1,39 +1,39 @@
 # Site
-repository: sproogen/resume-theme
+repository: Fayne/resume2
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Fayne Guo
+title: Tech Lead
+email: fayne.guo@gmail.com
+website: www.guorenjun.cn
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: FayneGuo
+github_username:  Fayne
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: fayne
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: renjunguo
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I hold the position of Tech lead at Shanghai MobileNow Technology Co., Ltd. I have more than 15 years of experience in the <mark>Web development</mark> industry, mainly involved in the development of <mark>e-commerce</mark>, <mark>Wechat Mini-program</mark>, <mark>corporate official websites</mark> and other projects.
+  
+  I have worked in the Mobile Now for more than 10 years. As the head of the technical department, I have rich management experience and a very mature development team. He has a very in-depth understanding of the e-commerce industry and mature solutions. At the same time, relying on platforms such as Wechat mini program, Native APP, and H5, we have completed dozens of Internet projects, including successful cases such as the DFS official website and multiple MHD e-commerce mini programs.
 
 content:
   - title: Projects # Title for the section
