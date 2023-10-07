@@ -120,6 +120,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       When I was a student, I was participated in various sports activities in school. I have much less time to exercise after work, but I still try my best to participate in ball games.
+      
       - Basketball
       - Badminton
       - Football
@@ -128,7 +129,7 @@ content:
       I have a lovely family. When I have time, I will take the whole family for a walk.
       
       
-      ![Family](/images/family.png "Fayne's Family")
+      ![Family](/images/family.webp "Fayne's Family")
 
 # Footer
 footer_show_references: true
