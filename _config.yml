@@ -46,7 +46,7 @@ youtube_username: renjunguo
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: https://res.cloudinary.com/fayne/image/upload/v1696757314/photos/profile.webp
 about_content: | # this will include new lines to allow paragraphs
   I hold the position of Tech lead at Shanghai MobileNow Technology Co., Ltd. I have more than 15 years of experience in the <mark>Web development</mark> industry, mainly involved in the development of <mark>e-commerce</mark>, <mark>Wechat Mini-program</mark>, <mark>corporate official websites</mark> and other projects.
   
@@ -129,7 +129,7 @@ content:
       I have a lovely family. When I have time, I will take the whole family for a walk.
       
       
-      ![Family](/images/family.webp "Fayne's Family")
+      ![Family](https://assets.guorenjun.cn/fayne/image/upload/v1696757314/photos/profile.webp "Fayne's Family")
 
 # Footer
 footer_show_references: true
